@@ -3,7 +3,7 @@ Powershell script for upgrading Windows
 
 This script works in a distributed infrastructure wherein software updates are distributed from server to endpoints.
 
-The prerequisite for this script is the download of the latest Windows upgrade package that can be saved to the source/distribution folder.
+The prerequisite for this script is the download of the latest Windows upgrade executable that can be saved to the source/distribution folder.
 
 This script begins with establishing basic environment variables, such as source and destination filepaths, folder names, etc. 
 
