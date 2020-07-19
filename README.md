@@ -14,7 +14,7 @@ The execution first removes any folders on targeted endpoints that may be leftov
 - Whether a minimum of 10 GB of space is available on the endpoints, and
 - Whether the endpoint can access the source distribution folder.
 
-If both criteria above are met, the script initiates the download and installation of the upgrade executable on the targeted endpoint. 
+If both criteria above are met, the script initiates the download and installation of the upgrade executable on the targeted endpoint. When complete, the script outputs logs accordingly.
 
 Otherwise, the script will output logs according to the specific point of failure. 
 
